@@ -17,10 +17,11 @@ body {
 h1#logo {
   width: 269px;
   height: 95px;
-  background: url('google_logo.png')
+  background: url('http://pngimg.com/uploads/google/google_PNG19644.png')
 top left  no-repeat;
   background-size: 100%;
   margin: 0 auto;
+  padding-bottom: 4px;
 }
 
 input[type="text"]{
